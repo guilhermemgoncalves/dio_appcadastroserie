@@ -1,0 +1,15 @@
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\bin\Debug\net6.0\EstoqueEletronica.exe
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\bin\Debug\net6.0\EstoqueEletronica.deps.json
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\bin\Debug\net6.0\EstoqueEletronica.runtimeconfig.json
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\bin\Debug\net6.0\EstoqueEletronica.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\bin\Debug\net6.0\ref\EstoqueEletronica.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\bin\Debug\net6.0\EstoqueEletronica.pdb
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.csproj.AssemblyReference.cache
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.AssemblyInfoInputs.cache
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.AssemblyInfo.cs
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.csproj.CoreCompileInputs.cache
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\ref\EstoqueEletronica.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.pdb
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\EstoqueEletronica\EstoqueEletronica\obj\Debug\net6.0\EstoqueEletronica.genruntimeconfig.cache

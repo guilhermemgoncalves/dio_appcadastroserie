@@ -1,0 +1,30 @@
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Drives\Trabalho\DIO\Bootcamps_DIO\Bootcamp .Net Developer\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Drives\Trabalho\DIO\Desafios Dio\Criando um App simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
